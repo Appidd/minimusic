@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "exam-card": "../../components/examCard/examCard",
+    "ques-card": "../../components/quesCard/quesCard"
+  }
+}

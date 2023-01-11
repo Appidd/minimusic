@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "解析",
+  "usingComponents": {
+    "last-next": "../../../components/LastNext/LastNext"
+  }
+}

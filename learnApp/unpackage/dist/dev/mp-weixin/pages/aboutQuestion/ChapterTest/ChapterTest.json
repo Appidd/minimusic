@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "章节练习",
+  "usingComponents": {
+    "u-radio": "../../../node-modules/uview-plus/components/u-radio/u-radio",
+    "u-radio-group": "../../../node-modules/uview-plus/components/u-radio-group/u-radio-group",
+    "footer": "../../../components/TestFooter/TestFooter",
+    "last-next": "../../../components/LastNext/LastNext"
+  }
+}

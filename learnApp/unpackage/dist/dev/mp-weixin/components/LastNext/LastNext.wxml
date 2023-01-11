@@ -1,0 +1,1 @@
+<view class="footer"><view class="btns"><view wx:if="{{a}}" class="leftbtn" bindtap="{{c}}"><image src="{{b}}" style="transform:rotate(180deg)"></image><view style="margin-left:10rpx">上一题</view></view><view wx:else class=""></view><view wx:if="{{d}}" class="leftbtn" bindtap="{{f}}"><view style="margin-right:10rpx">下一题</view><image src="{{e}}"></image></view></view></view>

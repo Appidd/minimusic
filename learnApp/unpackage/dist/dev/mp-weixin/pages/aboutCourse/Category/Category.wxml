@@ -1,0 +1,1 @@
+<view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="catename"><view class="{{item.b}}" bindtap="{{item.c}}">{{item.a}}</view></view>

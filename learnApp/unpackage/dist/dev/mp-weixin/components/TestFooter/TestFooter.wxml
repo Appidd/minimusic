@@ -1,0 +1,1 @@
+<view class="footer"><view class="share_card"><view bindtap="{{b}}" class="sbtnitem"><image src="{{a}}" class="left"></image></view><label class="sbtnitem"><button style="display:none" open-type="share"></button><image src="{{c}}" class="left"></image></label></view></view>
